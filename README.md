@@ -1,6 +1,4 @@
-# ![logo](assets/bowl.jpeg)
-# ![logo](assets/gaosheng.jpeg)
-***
+
 # ![logo](assets/logo.png)
 ## 如何获取cookie
 第一步：打开 https://cloud.189.cn/ 登录。   
